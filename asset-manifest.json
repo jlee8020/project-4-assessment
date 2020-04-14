@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jlee8020/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/jlee8020/project-4-assessment.git/static/js/main.d7e36fc8.chunk.js",
+    "main.js.map": "/jlee8020/project-4-assessment.git/static/js/main.d7e36fc8.chunk.js.map",
+    "runtime-main.js": "/jlee8020/project-4-assessment.git/static/js/runtime-main.ef407be4.js",
+    "runtime-main.js.map": "/jlee8020/project-4-assessment.git/static/js/runtime-main.ef407be4.js.map",
+    "static/js/2.36c0ca1e.chunk.js": "/jlee8020/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js",
+    "static/js/2.36c0ca1e.chunk.js.map": "/jlee8020/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.map",
+    "index.html": "/jlee8020/project-4-assessment.git/index.html",
+    "precache-manifest.29bde313092c4e59137810c765ba674b.js": "/jlee8020/project-4-assessment.git/precache-manifest.29bde313092c4e59137810c765ba674b.js",
+    "service-worker.js": "/jlee8020/project-4-assessment.git/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/jlee8020/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/jlee8020/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef407be4.js",
+    "static/js/2.36c0ca1e.chunk.js",
+    "static/css/main.2ddb3bd6.chunk.css",
+    "static/js/main.d7e36fc8.chunk.js"
+  ]
+}
